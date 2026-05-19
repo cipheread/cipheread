@@ -67,13 +67,21 @@ I specialize in strengthening security operations through optimized SOC processe
 
 ## 📈 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=cipheread&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<!-- Primary Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=cipheread&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
 
-![](https://nirzak-streak-stats.vercel.app/?user=cipheread&theme=dark&hide_border=false)
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cipheread&theme=dark&hide_border=false" width="48%" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cipheread&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipheread&theme=dark&hide_border=false&layout=compact" width="48%" />
 
----
+<!-- Badge-based stats (fallback) -->
+<p align="left">
+  <img src="https://img.shields.io/github/stars/cipheread?style=flat-square&logo=github&label=Stars&color=yellow" />
+  <img src="https://img.shields.io/github/followers/cipheread?style=flat-square&logo=github&label=Followers&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=cipheread&style=flat-square&label=Profile+Views" />
+</p>
 
 ## 📫 Let's Connect
 
