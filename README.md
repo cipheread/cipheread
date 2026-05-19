@@ -67,20 +67,24 @@ I specialize in strengthening security operations through optimized SOC processe
 
 ## 📈 GitHub Analytics
 
-<!-- Primary Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=cipheread&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+<div align="center">
+  
+<!-- Top Languages Card (usually most reliable) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipheread&theme=dark&hide_border=true&layout=compact" width="45%" />
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cipheread&theme=dark&hide_border=false" width="48%" />
+<!-- GitHub Stats Card with cache-busting -->
+<img src="https://github-readme-stats.vercel.app/api?username=cipheread&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="45%" />
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipheread&theme=dark&hide_border=false&layout=compact" width="48%" />
+<!-- Streak Stats (alternative service) -->
+<img src="https://streak-stats.demolab.com/?user=cipheread&theme=dark&hide_border=true" width="70%" />
 
-<!-- Badge-based stats (fallback) -->
-<p align="left">
-  <img src="https://img.shields.io/github/stars/cipheread?style=flat-square&logo=github&label=Stars&color=yellow" />
-  <img src="https://img.shields.io/github/followers/cipheread?style=flat-square&logo=github&label=Followers&color=blue" />
-  <img src="https://komarev.com/ghpvc/?username=cipheread&style=flat-square&label=Profile+Views" />
+</div>
+
+<!-- Reliable badge-based stats (always works) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24.total_stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fcipheread&style=for-the-badge&logo=github&color=181717" />
+  <img src="https://img.shields.io/github/followers/cipheread?style=for-the-badge&logo=github&label=Followers&color=181717" />
+  <img src="https://komarev.com/ghpvc/?username=cipheread&style=for-the-badge&color=181717&label=Profile+Views" />
 </p>
 
 ## 📫 Let's Connect
