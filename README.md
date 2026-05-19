@@ -67,25 +67,51 @@ I specialize in strengthening security operations through optimized SOC processe
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  
-<!-- Top Languages Card (usually most reliable) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipheread&theme=dark&hide_border=true&layout=compact" width="45%" />
+<!-- Simple text-based stats that always work -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>📅 Total Contributions</strong><br>
+      62<br>
+      <small>Mar 19, 2023 - Present</small>
+    </td>
+    <td align="center">
+      <strong>🔥 Current Streak</strong><br>
+      1 day<br>
+      <small>May 19</small>
+    </td>
+    <td align="center">
+      <strong>🏆 Longest Streak</strong><br>
+      2 days<br>
+      <small>Jan 7 - Jan 8</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>⭐ Total Stars</strong><br>
+      <em>No result yet</em>
+    </td>
+    <td align="center">
+      <strong>👥 Followers</strong><br>
+      <em>Loading...</em>
+    </td>
+    <td align="center">
+      <strong>👁️ Profile Views</strong><br>
+      <em>Loading...</em>
+    </td>
+  </tr>
+</table>
 
-<!-- GitHub Stats Card with cache-busting -->
-<img src="https://github-readme-stats.vercel.app/api?username=cipheread&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" width="45%" />
-
-<!-- Streak Stats (alternative service) -->
-<img src="https://streak-stats.demolab.com/?user=cipheread&theme=dark&hide_border=true" width="70%" />
-
-</div>
-
-<!-- Reliable badge-based stats (always works) -->
+<!-- Badge-based stats (these always work) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24.total_stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fcipheread&style=for-the-badge&logo=github&color=181717" />
-  <img src="https://img.shields.io/github/followers/cipheread?style=for-the-badge&logo=github&label=Followers&color=181717" />
-  <img src="https://komarev.com/ghpvc/?username=cipheread&style=for-the-badge&color=181717&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/cipheread?style=flat-square&logo=github&label=Followers&color=0A66C2" />
+  <img src="https://komarev.com/ghpvc/?username=cipheread&style=flat-square&color=0A66C2&label=Profile+Views" />
 </p>
+
+<!-- Optional: Try alternative stats service -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cipheread&theme=dark&hide_border=true" width="60%" />
+</div>
 
 ## 📫 Let's Connect
 
