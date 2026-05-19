@@ -67,50 +67,20 @@ I specialize in strengthening security operations through optimized SOC processe
 
 ## 📈 GitHub Analytics
 
-<!-- Simple text-based stats that always work -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <strong>📅 Total Contributions</strong><br>
-      62<br>
-      <small>Mar 19, 2023 - Present</small>
-    </td>
-    <td align="center">
-      <strong>🔥 Current Streak</strong><br>
-      1 day<br>
-      <small>May 19</small>
-    </td>
-    <td align="center">
-      <strong>🏆 Longest Streak</strong><br>
-      2 days<br>
-      <small>Jan 7 - Jan 8</small>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>⭐ Total Stars</strong><br>
-      <em>No result yet</em>
-    </td>
-    <td align="center">
-      <strong>👥 Followers</strong><br>
-      <em>Loading...</em>
-    </td>
-    <td align="center">
-      <strong>👁️ Profile Views</strong><br>
-      <em>Loading...</em>
-    </td>
-  </tr>
-</table>
-
-<!-- Badge-based stats (these always work) -->
+<!-- Live badges - always up to date -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/cipheread?style=flat-square&logo=github&label=Followers&color=0A66C2" />
-  <img src="https://komarev.com/ghpvc/?username=cipheread&style=flat-square&color=0A66C2&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/cipheread?style=for-the-badge&logo=github&label=Followers&color=0A66C2" />
+  <img src="https://komarev.com/ghpvc/?username=cipheread&style=for-the-badge&color=0A66C2&label=Profile+Views" />
 </p>
 
-<!-- Optional: Try alternative stats service -->
+<!-- Live streak stats (reliable alternative) -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cipheread&theme=dark&hide_border=true" width="60%" />
+</div>
+
+<!-- Live top languages -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipheread&theme=dark&hide_border=true&layout=compact" width="45%" />
 </div>
 
 ## 📫 Let's Connect
