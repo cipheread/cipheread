@@ -287,7 +287,7 @@ drwxr-xr-x  CLOUD & IT
 | Platform | Handle |
 |----------|--------|
 | 💼 LinkedIn | [faisalmehmood111](https://linkedin.com/in/faisalmehmood111) |
-| 🐙 GitHub | [cipheread](https://github.com/cipheread) |
+| 🐙 GitHub | [cyfrxD](https://github.com/cyfrxD) |
 | 📧 Email | [cipheread@gmail.com](mailto:cipheread@gmail.com) |
 | 🔐 TryHackMe | cipheread |
 | 🏴 Hack The Box | cipheread |
