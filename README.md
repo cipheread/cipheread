@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝        ╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝
 ```
 
-# Faisal Mehmood · `cipheread`
+# Faisal Mehmood · `cyfrxD`
 ### Security Operations Engineer · Red Teamer · Blue Teamer · Incident Responder
 
 *"I attack like a Red Teamer. I defend like a Blue Teamer. I think like both."*
@@ -28,7 +28,7 @@
 
 ```yaml
 name:         Faisal Mehmood
-alias:        cipheread
+alias:        cyfrxD
 role:         Security Operations Engineer
 speciality:   Red + Blue Team Operations · DevSecOps · Incident Response
 mindset:      Adversary-informed defense — I break things to learn how to fix them
